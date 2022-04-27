@@ -1,0 +1,2 @@
+# Team-112-capstone-project
+group name: 112, Team lead: Olu-ajayi Mizegbashi- SH-IT-0101800, Asst. lead: Favour Olaleru- SH-IT-0122522, Ariyo Oluwamayowa: SH-IT0067255, Abdullah Badmus: SH-ITOO18237, Daniel Ojofu: SH-IT-0055238, Daramola Odunayo: SH-IT-0131403, Mauyon Busola: SH-IT-0133972, Joseph Abel: SH-IT-0025833, The full project was actually done by the team members listed. and it was restructure and arrange by the Team lead and the Asst. Lead
